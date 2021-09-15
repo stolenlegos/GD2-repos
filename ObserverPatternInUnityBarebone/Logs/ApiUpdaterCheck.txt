@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 15/09/2021 16:15:23 : Starting /Users/mig/Dropbox/My Mac (Michaels-MacBook-Pro.local)/Documents/2020.3.17f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 656.076ms
+moved types parse time: 200ms
+candidates parse time : 20ms
+C# parse time         : 340ms
+candidates check time : 49ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15/09/2021 16:22:53 : Starting /Users/mig/Dropbox/My Mac (Michaels-MacBook-Pro.local)/Documents/2020.3.17f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 178.374ms
+moved types parse time: 147ms
+candidates parse time : 104ms
+C# parse time         : 332ms
+candidates check time : 31ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15/09/2021 16:24:04 : Starting /Users/mig/Dropbox/My Mac (Michaels-MacBook-Pro.local)/Documents/2020.3.17f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 80.893ms
+moved types parse time: 195ms
+candidates parse time : 1ms
+C# parse time         : 343ms
+candidates check time : 31ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15/09/2021 16:30:29 : Starting /Users/mig/Dropbox/My Mac (Michaels-MacBook-Pro.local)/Documents/2020.3.17f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 104.66ms
+moved types parse time: 242ms
+candidates parse time : 2ms
+C# parse time         : 321ms
+candidates check time : 70ms
+console write time    : 1ms
+
